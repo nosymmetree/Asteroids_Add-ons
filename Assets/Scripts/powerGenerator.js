@@ -5,7 +5,7 @@ var power:Rigidbody;
 function Start () {
 
 	//invoke repeating
-	InvokeRepeating("createPower", 1.0,10.0);
+	InvokeRepeating("createPower", 1.0,20.0);
 
 }
 
